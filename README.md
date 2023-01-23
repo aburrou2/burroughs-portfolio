@@ -3,8 +3,8 @@ My portfolio page for Telling Stories with Data at CMU.
 
 # About me
 Here are a few things about me...
-Name: Andrew
-Pronouns: he/him
+Name: Andrew,
+Pronouns: he/him,
 Program: MSPPM
 Three fun facts: 
 - I was at PNC Park for the Pirates game when Albert Pujols hit his 703rd home run, the last home run of his career.
