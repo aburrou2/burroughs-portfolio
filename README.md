@@ -3,9 +3,9 @@ My portfolio page for Telling Stories with Data at CMU.
 
 # About me
 Here are a few things about me...
-Name: Andrew
-Pronouns: he/him
-Program: MSPPM
+- Name: Andrew
+- Pronouns: he/him
+- Program: MSPPM
 Three fun facts: 
 - I was at PNC Park for the Pirates game when Albert Pujols hit his 703rd home run, the last home run of his career.
 - I am a huge sports fan and enjoy playing most sports. My favorite teams to root for are the Chicago Bears, Chicago White Sox, and the University of Pittsburgh Panthers. 
