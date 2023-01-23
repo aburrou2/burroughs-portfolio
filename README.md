@@ -1,2 +1,2 @@
 # burroughs-portfolio
-My portfolio page. 
+My portfolio page for Telling Stories with Data at CMU. 
