@@ -21,6 +21,6 @@ After I graduate, I will be moving to Arlington, VA to start as a full-time Anal
 
 # Portfolio
 
-  # Data Viz 1
+## Data Viz 1
   
-  # Final Project
+## Final Project
