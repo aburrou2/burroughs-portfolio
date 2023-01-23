@@ -3,8 +3,11 @@ My portfolio page for Telling Stories with Data at CMU.
 
 # About me
 Here are a few things about me...
-Name: Andrew,
-Pronouns: he/him,
+
+Name: Andrew
+
+Pronouns: he/him
+
 Program: MSPPM
 
 Three fun facts: 
