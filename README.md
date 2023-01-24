@@ -10,9 +10,9 @@ Pronouns: he/him
 
 Program: MSPPM
 
-Hey everyone! Thank you for visiting my page. My name is Andrew and I am a second year MSPPM student. It is truly bittersweet to be in my last semester of graduates chool! I originally from the suburbs of Chicago and consider myself a proud Midwesterner. In my free time, I enjoy watching and playing sports, going to breweries, and sometimes if I am feeling bold enough, I will go to a brewery AND watch sports. I also enjoy running and closely follow professional track and field. I have spent time working/interning in the education and government (state, city, and federal) spaces and aspire to make an impact in communities through more equitable, data-driven decision making. 
+Hey everyone! Thank you for visiting my page. My name is Andrew and I am a second year MSPPM student. It is truly bittersweet to be in my last semester of graduate school! I am originally from the suburbs of Chicago and consider myself a proud Midwesterner. In my free time, I enjoy watching and playing sports, going to breweries, and sometimes if I am feeling bold enough, I will go to a brewery AND watch sports. I also enjoy running and closely follow professional track and field. I have spent time working/interning in the education and government (state, city, and federal) spaces and aspire to make an impact in communities through more equitable, data-driven decision making. 
 
-This is my sixth year living in Pittsburgh as I attended the University of Pittsburgh for undergrad. Here are five things on my Pittsburgh bucket list that I want to check off before graduation: 
+This is my sixth year living in Pittsburgh as I attended the University of Pittsburgh for my Bachelor's degree. Here are five things on my Pittsburgh bucket list that I want to check off before graduation: 
 1. Run up Canton Avenue, the steepest public street in America.
 2. Eat CMU dining hall food. 
 3. Go to a CMU basketball game.
