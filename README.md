@@ -31,6 +31,9 @@ After I graduate, I will be moving to Arlington, VA to work as a full-time Analy
 
 # Portfolio
 
+## Assignment: Visualizing Government Debt
+[Here are the visualizations for this assignment](/dataviz2.md)
+
 ## Assignment 3&4: Critique by Design
   
 ## Final Project
