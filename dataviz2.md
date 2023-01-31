@@ -29,4 +29,5 @@ Without presenting the data in another chart of graphics like above, the data ne
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/12593267"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Source for all of this data:[OECD](https://data.oecd.org/gga/general-government-debt.htm)
+Source for all of this data: [OECD](https://data.oecd.org/gga/general-government-debt.htm)
+Citation: OECD (2023), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 30 January 2023)
