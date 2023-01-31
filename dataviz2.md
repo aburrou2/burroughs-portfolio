@@ -25,4 +25,8 @@ Two things I wish I could have done differntly, but could not figure out how to 
 
 The image below is a slope chart looking at how G7 member countries' Debt-to-GDP ratios compare to the OECD average from 2009 to now. Although G7 data is available for the entire time period in the dataset, the OECD average is only available from 2009 to the present. This is why the the graphic focuses on that time period. All G7 countries, with the exception of Germany, have a higher Debt-to-GDP ratio than the OECD average for the entire time period. The graphic is interactive and the information for all other OECD countries can be found by hovering over any of the unhighlighted lines. 
 
+Without presenting the data in another chart of graphics like above, the data needed to be grouped in some way. I initially wanted to just do a simple line graph, but could not figure out how to highlight groups on Flourish. This led me to the Slope Chart, which allows me to highlight groups (while still visualizing the remaining data) and show change over time like a line graph. 
+
 <div class="flourish-embed flourish-slope" data-src="visualisation/12593267"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Source for all of this data:[OECD](https://data.oecd.org/gga/general-government-debt.htm)
