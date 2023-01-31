@@ -7,7 +7,7 @@ The image below is a web-based image from the Organization for Economic Co-opera
 
 <iframe src="https://data.oecd.org/chart/6XVM" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XVM" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
-## Image 2: Flourish Data Visualization 1
+## Image 2: Flourish Grid of Line Charts
 
 Below is a graphic from the Tool Flourish that uses the same data as  Image 1. The time period for this graphic spans from 1995 - 2021. Data for each country is presented when available and not every country is shown for the entire time period. The image below looks at time completely differently than Image 1. One key observation with the image below is that Debt-to-GDP ratio varies throughout the world. It is not just countries on one continent that have high (or low) Debt-to-GDP ratios. There is a lot going on in this graphic which is why the title is simple. The varying ratios are the most apparent initial observation. Because of this, I made them the focus of the title. Drawing attention to specific countries or regions would require too much thinking/searching for a viewer. 
 
@@ -22,5 +22,7 @@ Two things I wish I could have done differntly, but could not figure out how to 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12580324"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Image 3: My Own Flourish Data Visualization 
+
+The image below is a slope chart looking at how G7 member countries' Debt-to-GDP ratios compare to the OECD average from 2009 to now. Although G7 data is available for the entire time period in the dataset, the OECD average is only available from 2009 to the present. This is why the the graphic focuses on that time period. All G7 countries, with the exception of Germany, have a higher Debt-to-GDP ratio than the OECD average for the entire time period. The graphic is interactive and the information for all other OECD countries can be found by hovering over any of the unhighlighted lines. 
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/12593267"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
