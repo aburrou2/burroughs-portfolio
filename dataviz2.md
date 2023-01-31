@@ -20,3 +20,7 @@ I did not include axis labels in this graphic because I think it is obvious what
 Two things I wish I could have done differntly, but could not figure out how to do on Flourish pertain to both axes. I would have liked to change the Y-axis (the Debt-to-GDP ratio value) to have a more incrementally even scale. I think an increment of 50 or even 100 would have been suffice. Both would be less confusing than what is currently presented. As for the X-axis, I wish that the year labels started at the first year in the data set (1995) and ended with the last year (2021). These changes would enhance the clarity of the time period in the graphic. The title does indicate a longer comparison period than is shown in the X-axis, but the title and axis label should have better agreement. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12580324"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Image 3: My Own Flourish Data Visualization 
+
+<div class="flourish-embed flourish-slope" data-src="visualisation/12593267"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
