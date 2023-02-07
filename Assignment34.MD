@@ -40,7 +40,7 @@ At this point, I felt comfortable with the sketches I had and wanted to create a
 
 ### Testing the Solution (User Research)
 
-I got feedback on the fifth sketch from two people. This helped me identify blind spots and areas of improvement before creating the final solution. User 1 is a 25-year-old working adult. User 2 is a high school math teacher who student taught in PPS but now works in a different district. I asked them these questions: 
+I got the most feedback on the fifth sketch from two people. I also walked them through my sketch process after we finished going over the fifth sketch. This helped me identify blind spots and areas of improvement before creating the final solution. User 1 is a 25-year-old working adult. User 2 is a high school math teacher who student taught in PPS but now works in a different district. I asked them these questions: 
 - Can you tell me what you think this is?
 - Can you describe to me what this is telling you?
 - Is there anything you find surprising or confusing?
