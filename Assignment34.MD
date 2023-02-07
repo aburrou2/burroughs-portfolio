@@ -76,4 +76,9 @@ In terms of what did not work, they mentioned that the focus was not clear. To c
 
 ### Final Redesigned Solution
 
+After the final round of user feedback, I created my final redesigned solution. This graphic attempts to visualize declining PPS enrollment and projected enrollment in an intuitive, attractive, useful, and clear way. Declining PPS enrollment has clear negative consequences and I wanted the final redesign to captivate an audience and engage them on a critically important topic. As mentioned previously, I chose to display this in a line chart because I felt it was the most appropriate (and simplest) way to represent this change over time data. 
+
+In this final redesign, I tried to make the declining line the true focus of the graph. I thickened the line significantly from the first redesign, decreased the size of the title and subtitle, and changed the color of the subtitle to dark grey. I also added one more value to the Y-axis to help with audience understanding. I thought that adding one more value would add additional context for audience members and decrease the possibility of audience confusion. I think the first redesign was too simple and it was unclear if the Y-axis values had any significance. I think adding one more value makes it clearer that the values are simply arbitrary frames of reference. Although they are arbitrary selections, the gap between the numbers (4,000) was selected to present an even, clean axis.
+
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/12654855"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
