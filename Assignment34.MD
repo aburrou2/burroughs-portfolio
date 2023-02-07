@@ -30,6 +30,10 @@ With an effective title and subtitle in mind, I began to sketch a solution. In t
 
 ![First three wireframe solutions](123.png)
 
+With even more self-critiques in mind, I created a fourth sketch (seen below) that sought to make the projected and actual data difference clear without adding clutter. I added two labels to make the distinction clear, but not distracting. I thought that the two labels created far less clutter than the black lines in the third sketch. 
+
 ![Fourth wireframe solution](4.png)
+
+At this point, I felt comfortable with the sketches I had and wanted to create a fifth and final sketch that brought everything together. This was the sketch that I showed first in the user research phase. This graphic (seen below) has all the elements of the fourth sketch and also has a title and subtitle. I felt like I had successfully redesigned a more effective and useful chart. It becomes obvious in the next section of this write up that I had many blind spots in my redesign. I am thankful for user research and the iterative redesign process! 
 
 ![Fifth wireframe solution which was final sketch](5.png)
