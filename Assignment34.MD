@@ -59,6 +59,10 @@ Both users had different answers for the intended audience. User 1 that this cha
 
 With user feedback in mind, I incorporated their suggestions into my first final redesign (screenshot seen below). I used Flourish to create the final redesign. I would have liked to use Tableau, but I read online that dashed lines are hard to create in Tableau. I wanted to use a dashed line to separate projected from actual data and I did not want to rely on colors to show that difference. It was also difficult on Tableau to show this data without a gap between the actual and projected data (like in the original chart). Such a gap seems unnatural. 
 
+I intended for this visualization to clearly show that PPS enrollment is on a dangerously decreasing trend. I wanted viewers to understand that this is a bad thing that has three main negative consequences. I chose to display this in a line chart because I felt it was the most appropriate (and simplest) way to represent this change over time data. 
+
+I made this redesign with the intended audience of both parents and school board/district officials. No matter who the audience, declining enrollment is a bad thing and useful information. I made few, but meaningful, changes from my sketches to the first final solution. I added axis labels and made the X-axis clear that it refers to years by adding “20” to the years. I also did not include any labels for projected and actual data. Both users said that the difference was intuitive and adding labels would add clutter to the chart. Additionally, Flourish did not allow me to make labels based on line texture. 
+
 ![First final solution](Assignment3&4.png)
 
 ### Another Round of User Research
