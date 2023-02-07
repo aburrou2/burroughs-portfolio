@@ -55,5 +55,12 @@ In terms of comments unique to User 2, they did mention that the chart was not s
 
 Both users had different answers for the intended audience. User 1 that this chart would be something a school board would show to either parents or local government. They also thought that this chart would be posted in the news to the general public as a ‘fear mongering thing.’ User 2 thought that the intended audience was people in charge of the school district, school board members, or school administrators. They did not think that this chart was intended for families or kids because they cannot do anything about decreasing enrollment. With their PPS experience, they also mentioned that this information would not be surprising to a parent, especially parents thinking of unenrolling their children. This is something that would not change their mind on PPS or encourage them to unenroll since they would already know about declining enrollment. 
 
+### First Final Solution
+
+With user feedback in mind, I incorporated their suggestions into my first final redesign (screenshot seen below). I used Flourish to create the final redesign. I would have liked to use Tableau, but I read online that dashed lines are hard to create in Tableau. I wanted to use a dashed line to separate projected from actual data and I did not want to rely on colors to show that difference. It was also difficult on Tableau to show this data without a gap between the actual and projected data (like in the original chart). Such a gap seems unnatural. 
 
 ![First final solution](Assignment3&4.png)
+
+### Another Round of User Research
+
+### Final Redesigned Solution
