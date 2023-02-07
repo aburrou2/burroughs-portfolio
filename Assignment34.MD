@@ -20,6 +20,10 @@ Overall, the critique method helped me to identify the main aspects I wanted to 
 
 ### Wireframing a Solution
 
+I knew that the redesign was still going to be a line chart and it would look similar but more effective than the original. Because of this, I thought it was most important to start off the wirefame process by brainstorming titles and subtitles. 
+
+The goal of the title was to highlight the main idea of the information: that PPS enrollment is decreasing and projected to continue doing so. It was important to do this in the least amount of text possible. The idea was to get the point across, but do it in a way that has the least possible amount of clutter. I felt comfortable with the proposed title on my fourth iteration, which is shown with the circled star in the image below. I likewise felt comfortable with the subtitle on its fourth iteration which is shown in the same way in the image. The goal of the subtitle was to show why the information in the graphic is important and provide context as to why declining enrollment is bad. The original graphic lacked context and an effective subtitle. The subtitle is crucial to conveying the chart’s usefulness, importance, and context. I also tried to create an effective subtitle with the least amount of text possible. 
+
 ![Wireframe titles and subtitles](Titles.png)
 
 ![First three wireframe solutions](123.png)
