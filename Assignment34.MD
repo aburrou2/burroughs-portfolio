@@ -18,3 +18,4 @@ Critiquing the original image was the first step in the redesign process. The cr
 
 Overall, the critique method helped me to identify the main aspects I wanted to change when redesigning the graphic. The graph needs more context as to why the information is useful and important. This could come from a better title and subtitle that point to an idea, not just the structure of the graphic. Additionally, the chart could use a better distinction between actual and projected data as the gap between the two lines in the original is awkward and unintuitive. The color scheme could also be improved and simplified to increase the attractiveness of the chart. Lastly, there is too much clutter because of the gridlines, axis values, and amount of text. These are all things I tried to improve in the redesign.  
 
+### Wireframing a Solution
