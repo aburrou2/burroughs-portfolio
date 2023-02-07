@@ -8,3 +8,8 @@ The image I am redesigned in this assignment is located below. It is part of [th
 
 ![The original image showing Pittsburgh Public Schools enrollment and projected decline.](imageOG.png)
 
+## The Redesign Process
+
+### Critiquing The Original Image
+
+The critique method used for this assignment can be found [here](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf). 
