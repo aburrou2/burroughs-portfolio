@@ -68,3 +68,5 @@ I made this redesign with the intended audience of both parents and school board
 ### Another Round of User Research
 
 ### Final Redesigned Solution
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12654855"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
