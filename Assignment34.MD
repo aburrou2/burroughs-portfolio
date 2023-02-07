@@ -4,5 +4,7 @@ Link back to main portfolio page: [Click Here](/README.md)
 
 ## Original Image
 
-The image I am redesigned in this assignment is located below. [It is part of this larger article from Public Source](https://www.publicsource.org/pps-enrollment-decline-pittsburgh-public-school-building-closures/)
+The image I am redesigned in this assignment is located below. [It is part of this larger article from Public Source.](https://www.publicsource.org/pps-enrollment-decline-pittsburgh-public-school-building-closures/)
+
+![The original image is here.](imageOG.png)
 
