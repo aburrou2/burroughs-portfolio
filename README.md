@@ -40,5 +40,7 @@ After I graduate, I will be moving to Arlington, VA to work as a full-time Analy
 [Here are the visualizations and write up for this assignment](/dataviz2.md)
 
 ## Assignment 3&4: Critique by Design
+[Here are the visualizations and write up for this assignment](/Assignment34.MD)
+
   
 ## Final Project
