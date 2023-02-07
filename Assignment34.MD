@@ -37,3 +37,15 @@ With even more self-critiques in mind, I created a fourth sketch (seen below) th
 At this point, I felt comfortable with the sketches I had and wanted to create a fifth and final sketch that brought everything together. This was the sketch that I showed first in the user research phase. This graphic (seen below) has all the elements of the fourth sketch and also has a title and subtitle. I felt like I had successfully redesigned a more effective and useful chart. It becomes obvious in the next section of this write up that I had many blind spots in my redesign. I am thankful for user research and the iterative redesign process! 
 
 ![Fifth wireframe solution which was final sketch](5.png)
+
+### Testing the Solution (User Research)
+
+I got feedback on the fifth sketch from two people. This helped me identify blind spots and areas of improvement before creating the final solution. User 1 is a 25-year-old working adult. User 2 is a high school math teacher who student taught in PPS but now works in a different district. I asked them these questions: 
+- Can you tell me what you think this is?
+- Can you describe to me what this is telling you?
+- Is there anything you find surprising or confusing?
+- Who do you think is the intended audience for this?
+- Is there anything you would change or do differently?
+- Do you think this is an appropriate graph for this story/information? 
+- How does the color scheme work?
+
