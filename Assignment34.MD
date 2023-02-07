@@ -67,6 +67,13 @@ I made this redesign with the intended audience of both parents and school board
 
 ### Another Round of User Research
 
+After creating my first final solution, I showed the above image to a group of four Heinz College graduate students at Carnegie Mellon University. 
+
+In terms of what worked, they said that the subtitle was effective and that the dashed line made it obvious where the projections started. They mentioned that the projections were clearly different from the actual data. They also mentioned that not having dots on the line to represent each year's value was a good thing because adding the dots would have caused a distraction. 
+
+In terms of what did not work, they mentioned that the focus is not clear. To counteract this, they recommended making the line in the chart thicker to draw more attention to it. They also said that the years on the X-axis did not need to be titled because it is unnecessary to do that if only displaying a few values. Lastly, they mentioned that the text should be smaller so that is all on one line. Having the text on one line looks more natural and allows the text to be less dominant. A few users in the group commented that the text was too much of a focus. They suggested changing the subtitle from black to dark grey and also decreasing the text size would help with this. 
+
+
 ### Final Redesigned Solution
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12654855"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
