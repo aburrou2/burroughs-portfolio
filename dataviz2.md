@@ -1,4 +1,5 @@
-Link back to main portfolio page: [Click Here](/README.md)
+| [home page](https://aburrou2.github.io/burroughs-portfolio/) | [visualizing debt](dataviz2) | [critique by design](Assignment34) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Visualizing Government Debt
 
 ## Image 1: A Web-Based Data Visualization
