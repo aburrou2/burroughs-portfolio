@@ -66,7 +66,6 @@ At this point in the story, I think it makes sense to talk more positively about
 ![Three lesser known WIC components](3things.jpg)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 The data for this presentation will come from publicly available data sources. The participation data will come from one source, the Pennsylvania WIC program office. They have monthly participation data from December 2020 to December 2022. The participation data is available in many forms. It is all available at the county level. The available data includes WIC participation by race, by type of participant (i.e. the aforementioned categories of participation), and by total participation in a county. For this story, I will use the participant type and total participation data. The data is already cleaned and the only manipulation I anticipate will revolve around changing the data structure for the data visualization tool. Since I am only focusing on five counties, I will have to eliminate data for the other 62 counties in Pennsylvania. 
 
