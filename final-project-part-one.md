@@ -53,7 +53,7 @@ After that, I would then provide a high level overview of WIC participation and 
 
 ![WIC participation from 2020 to 2022](SlopeChart.jpg)
 
-After showing the trends in enrollment, I think it makes sense to remind the audience that funding for the program is tied to participation. I also think at this point I could show the audience just how many eligible Pennsylvanians are not participating in the program. A unit chart would be great for that and that is what I sketched below. 
+After showing the trends in enrollment, I think it makes sense to remind the audience that funding for the program is tied to participation. I also think at this point I could show the audience just how many eligible Pennsylvanians are not participating in the program. A unit chart would be great for that and that is what I sketched below. A unit chart and Shorthand's ability to scroll (and mimic a sense of animation). Because of that ability, I could mimic the unit chart flipping to separately highlight what proportion of people eligible for WIC are participating and what proportion are not. I would have to make two unit charts, and the other unit chart would be the oppositve of the sketched unit chart below. 
 
 ![Funding is tied to participation](FundingPartic.jpg)
 
@@ -84,3 +84,7 @@ Links to all the data/information I plan on incorporating into the final project
 # Method and medium
 
 I plan on using Shorthand to tell my story and will use it to create my final presentation. I will create my data visualizations using Tableau and/or Flourish. 
+
+# In-Class Feedback
+
+I received helpful feedback when I walked my group through part one of my final project. They liked my story arc and how the visualizations fit into the story arc, especially the mention of funding tied to participation as a low point in the story arc. They said that would build suspense and make the story compelling. It adds a sense of desperation to the story. Another piece of feedback I got was about using the unit chart to visualize the proportion of eligible people participating in WIC. They mentioned that I could use animation to toggle between unit charts visualizing the proportion of eligible people who participate and those that do not participate in WIC. Because of this feedback, I added more detail about how I plan to incorporate unit chart visualizations into my story and that I plan to have two unit charts and mimic animation using Shorthand. Lastly, the group mentioned that I should consider adding a second call to action for policymakers. They recommended that I should consider the class and also policymakers as a potential audience. I agree that policymakers are an important group to consider as the audience and as a result, I added a second call to action and description of the audience in this write up. 
