@@ -27,7 +27,7 @@ Conflict: At this point, I will provide a high level overview and show summary s
 Resolution: There is a common misconception that WIC just provides families with money to buy food or formula.  I will highlight three areas of additional benefits of WIC that could encourage people who are not participating to participate with greater awareness. These three components of WIC are breastfeeding support, nutrition education, and program modernization. It will be important to highlight the limitations of these aspects in Pennsylvania (N.B. PA lags behind most states in terms of WIC modernization and digital transformation). I will then talk about how these components fit into SW PA and end with my call to action, encouraging the audience to spread awareness in the region about the benefits of WIC and the room for additional participants. This part of the presentation will focus less on data visualization and more on digital storytelling. 
 
 ### Story Arc
-![My new story arc](Story Arc.jpg)
+![My new story arc](StoryArc.jpg)
 
 The outline contains more details on aspects of the Story Arc. This Story Arc is different from the in-class exercise as my idea has been refined in the last few weeks.
 
