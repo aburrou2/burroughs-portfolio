@@ -14,6 +14,10 @@ WIC participation is decreasing, but this project will tell the story of partici
 
 WIC Is an impactful program, but less families in Southwestern Pennsylvania are participating and more promotion of lesser known (but very liked) program aspects can increase participation.  
 
+### Intended Audience
+
+The intended audience for this presentation is residents of Southwestern Pennsylvania. The audience should understand the following after my presentation. “As a Southwestern Pennsylvania resident, I want more awareness of programs that can benefit people in my community so that my neighbors and I can coexist in a healthy, thriving community.” 
+
 ### Broad Outline
 Setup: WIC is an impactful program with clear benefits to health outcomes for women, infants, and children.
 Conflict: WIC funding is tied to participation and less people are participating in Allegheny County despite the benefits. 
