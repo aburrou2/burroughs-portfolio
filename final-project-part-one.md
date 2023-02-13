@@ -3,16 +3,31 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
 
-For my final project, I want to focus on Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) participation in Allegheny County. This an impactful program that delivers tangible benefits to women, infants, and children. The program is underutilized and there are many people who are eligible, but not participating in the WIC program. WIC participation is decreasing in Pennsylvania. Federal funding for WIC is tied to the participation rate. This means Pennsylvania’s decreasing participation lowers the amount of funding for the PA WIC program. This is an important part of the story to tell that can help to explain why decreasing WIC participation is troublesome. 
+For my final project, I want to focus on Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) participation in Southwestern Pennsylvania (Butler, Beaver, Washington, Allegheny, and Westmoreland Counties). This an impactful program that delivers tangible benefits to women, infants, and children. The program is underutilized and there are many people who are eligible, but not participating in the WIC program. WIC participation is decreasing in Pennsylvania. Federal funding for WIC is tied to the participation rate. This means Pennsylvania’s decreasing participation lowers the amount of funding for the PA WIC program. This is an important part of the story to tell that can help to explain why decreasing WIC participation is troublesome. 
 
-The state WIC office has started releasing participation data for each county in Pennsylvania and there are two years’ worth of participation data. At a high level, this project will provide summary statistics of WIC participation in Allegheny County over the last two years. It will also showcase WIC’s impact on the health outcomes of program participants. 
+The state WIC office has started releasing participation data for each county in Pennsylvania and there are two years’ worth of participation data. At a high level, this project will provide summary statistics of WIC participation in the five counties over the last two years. It will also showcase WIC’s impact on the health outcomes of program participants. 
 
 WIC participation is decreasing, but this project will tell the story of participation across the different categories of WIC participants (Children, Fully Breastfeeding Mothers, Infants Fully Breastfeeding, Infant Fully Formula-Fed, Infants Partially Breastfed, Women Partially Breastfeeding, Post-Partum Women, and Pregnant Women). Is participation decreasing in each category of the program? This is an important high-level question to answer. Lastly, this project will drill down further from the participation data and highlight benefits or aspects of the program that Pennsylvania WIC clients like, but many others do not know about. 
 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+### One sentence summary
+
+WIC Is an impactful program, but less families in Southwestern Pennsylvania are participating and more promotion of lesser known (but very liked) program aspects can increase participation.  
+
+### Broad Outline
+Setup: WIC is an impactful program with clear benefits to health outcomes for women, infants, and children.
+Conflict: WIC funding is tied to participation and less people are participating in Allegheny County despite the benefits. 
+Resolution: Raising awareness of the aspects of the Pennsylvania WIC program that many people do not know about can increase participation. 
+
+### Specific Details of Outline
+Setup: I will talk about what WIC is and showcase the impact on health impacts for program participants. I will highlight the health outcomes of WIC participants using downward and upward arrows (i.e. WIC participants see an increase in these good health outcomes and a decrease in these bad health outcomes). The outcomes will ideally be broken down by women and children, meaning each group will get their own set of arrows. 
+
+Conflict: At this point, I will provide a high level overview and show summary statistics on WIC program participation. I will show who is using the program now (in a stacked bar chart) and then show participation rates from December 2020 to December 2022 in a slope chart. Both of these graphics will be broken out by the categories of program participants. I will end this section of the presentation by showing a unit chart of how many eligible people in Pennsylvania are participating (which is around 50%) in a unit chart. Lastly, I will add the caveat that funding is tied to participation and less participation means less funding to staff, provide outreach, and assist women and children in need. 
+
+Resolution: There is a common misconception that WIC just provides families with money to buy food or formula.  I will highlight three areas of additional benefits of WIC that could encourage people who are not participating to participate with greater awareness. These three components of WIC are breastfeeding support, nutrition education, and program modernization. It will be important to highlight the limitations of these aspects in Pennsylvania (N.B. PA lags behind most states in terms of WIC modernization and digital transformation). I will then talk about how these components fit into SW PA and end with my call to action, encouraging the audience to spread awareness in the region about the benefits of WIC and the room for additional participants. This part of the presentation will focus less on data visualization and more on digital storytelling. 
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
