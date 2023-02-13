@@ -29,7 +29,7 @@ Text here...
 | Name | URL | Description |
 |------|-----|-------------|
 |Pennsylvania WIC Program Data|[Link](https://www.pawic.com/PAWICProgramData.aspx)  |             |
-|      |     |             |
+|Thriving PA|[Link](https://thrivingpa.org/wp-content/uploads/2022/06/Pennsylvania-WIC-Fact-Sheet-2022.pdf)|             |
 |      |     |             |
 
 # Method and medium
