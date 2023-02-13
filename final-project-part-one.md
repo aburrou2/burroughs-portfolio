@@ -33,7 +33,7 @@ The outline contains more details on aspects of the Story Arc. This Story Arc is
 
 ## Initial sketches
 
-Here are sketches of anticipated data visualizations. 
+Here are sketches of anticipated data visualizations. In these sketches, I anticipate that some of the titles will change between now and the final deliverable. I also would like to note that the scale on these images is different than it will be in the actual visualizations. Lastly, I plan on employing a consistent color scheme throughout my story. That means that if a category of the WIC program (e.g. post-partum women) is purple in one visualization, it will be purple in all other visualizations. 
 
 After introducing what WIC is, I would like to include something similar to the image below, which visualizes the benefits of WIC for children and women. The goal in this image is to highlight the positive health outcomes of WIC participants.
 
