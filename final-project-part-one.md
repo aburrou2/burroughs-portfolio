@@ -79,6 +79,5 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan on using Shorthand to tell my story and will use it to create my final presentation. I will create my data visualizations using Tableau and/or Flourish. 
