@@ -68,15 +68,16 @@ At this point in the story, I think it makes sense to talk more positively about
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+The data for this presentation will come from publicly available data sources. The participation data will come from one source, the Pennsylvania WIC program office. They have monthly participation data from December 2020 to December 2022. The participation data is available in many forms. It is all available at the county level. The available data includes WIC participation by race, by type of participant (i.e. the aforementioned categories of participation), and by total participation in a county. For this story, I will use the participant type and total participation data. The data is already cleaned and the only manipulation I anticipate will revolve around changing the data structure for the data visualization tool. Since I am only focusing on five counties, I will have to eliminate data for the other 62 counties in Pennsylvania. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+
+Links to all the data/information I plan on incorporating into the final project are located in the table below. 
 
 | Name | URL | Description |
 |------|-----|-------------|
 |Pennsylvania WIC Program Data|[Link](https://www.pawic.com/PAWICProgramData.aspx)  |Publicly available PA WIC participation data from the state WIC office|
 |Thriving PA|[Link](https://thrivingpa.org/wp-content/uploads/2022/06/Pennsylvania-WIC-Fact-Sheet-2022.pdf)|Publicly available report that has data on eligibility and participation|
-|      |     |             |
+|National WIC Association|[Link](https://thewichub.org/the-state-of-wic/)|Public report on WIC that has statistics on health outcomes for WIC participants|
 
 # Method and medium
 
