@@ -5,8 +5,13 @@
 
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+
+For my final project, I want to focus on Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) participation in Southwestern Pennsylvania. This an impactful program that delivers tangible benefits to women, infants, and children. The program is underutilized and there are many people who are eligible, but not participating in the WIC program. WIC participation is decreasing in Pennsylvania. Federal funding for WIC is tied to the participation rate. This means Pennsylvania’s decreasing participation lowers the amount of funding for the PA WIC program. This is an important part of the story to tell that can help to explain why decreasing WIC participation is troublesome. 
+
+The state WIC office has started releasing participation data for each county in Pennsylvania and there are two years’ worth of participation data. At a high level, this project will provide summary statistics of WIC participation in Allegheny County over the last two years. It will also showcase WIC’s impact on the health outcomes of program participants. 
+
+WIC participation is decreasing, but this project will tell the story of participation across the different categories of WIC participants (Children, Fully Breastfeeding Mothers, Infants Fully Breastfeeding, Infant Fully Formula-Fed, Infants Partially Breastfed, Women Partially Breastfeeding, Post-Partum Women, and Pregnant Women). Is participation decreasing in each category of the program? This is an important high-level question to answer. Lastly, this project will drill down further from the participation data and highlight benefits or aspects of the program that Pennsylvania WIC clients like, but many others do not know about. 
+
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
