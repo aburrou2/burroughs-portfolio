@@ -2,6 +2,8 @@
 
 # Outline
 
+### Project Summary
+
 For my final project, I want to focus on Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) participation in Southwestern Pennsylvania (Butler, Beaver, Washington, Allegheny, and Westmoreland Counties). This an impactful program that delivers tangible benefits to women, infants, and children. The program is underutilized and there are many people who are eligible, but not participating in the WIC program. WIC participation is decreasing in Pennsylvania. Federal funding for WIC is tied to the participation rate. This means Pennsylvania’s decreasing participation lowers the amount of funding for the PA WIC program. This is an important part of the story to tell that can help to explain why decreasing WIC participation is troublesome. 
 
 The state WIC office has started releasing participation data for each county in Pennsylvania and there are two years’ worth of participation data. At a high level, this project will provide summary statistics of WIC participation in the five counties over the last two years. It will also showcase WIC’s impact on the health outcomes of program participants. 
@@ -24,11 +26,27 @@ Conflict: At this point, I will provide a high level overview and show summary s
 
 Resolution: There is a common misconception that WIC just provides families with money to buy food or formula.  I will highlight three areas of additional benefits of WIC that could encourage people who are not participating to participate with greater awareness. These three components of WIC are breastfeeding support, nutrition education, and program modernization. It will be important to highlight the limitations of these aspects in Pennsylvania (N.B. PA lags behind most states in terms of WIC modernization and digital transformation). I will then talk about how these components fit into SW PA and end with my call to action, encouraging the audience to spread awareness in the region about the benefits of WIC and the room for additional participants. This part of the presentation will focus less on data visualization and more on digital storytelling. 
 
+### Story Arc
+![My new story arc](Story Arc.jpg)
+
+The outline contains more details on aspects of the Story Arc. This Story Arc is different from the in-class exercise as my idea has been refined in the last few weeks.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+Here are sketches of anticipated data visualizations. 
+
+After introducing what WIC is, I would like to include something similar to the image below, which visualizes the benefits of WIC for children and women. The goal in this image is to highlight the positive health outcomes of WIC participants.
+
+![Health outcomes of WIC participants](HealthOutcomes.jpg)
+
+I would then like to provide a high level overview of who is using the program. By this I mean, I would like to visualize what groups of eligible people are participating. A stacked bar chart makes sense for this visualization as it allows for a simple year to year comparison of the make up of WIC participants by cateogry. I also think it makes sense to break this out and do separate charts for mothers and children. 
+
+![Stacked bar chart of mothers](WomenStacked.jpg)
+![Stacked bar chart of children](ChildrenBarChart.jpg)
+
+After that, I would then provide a high level overview of WIC participation and how it has changed among the different categories of participating women and children. I think a slope chart makes sense to visualize this since I want to present a year vs. year comparison and clearly show the trends. 
+
+![WIC participation from 2020 to 2022](SlopeChart.jpg)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
