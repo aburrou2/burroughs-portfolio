@@ -42,11 +42,24 @@ After introducing what WIC is, I would like to include something similar to the 
 I would then like to provide a high level overview of who is using the program. By this I mean, I would like to visualize what groups of eligible people are participating. A stacked bar chart makes sense for this visualization as it allows for a simple year to year comparison of the make up of WIC participants by cateogry. I also think it makes sense to break this out and do separate charts for mothers and children. 
 
 ![Stacked bar chart of mothers](WomenStacked.jpg)
+
 ![Stacked bar chart of children](ChildrenBarChart.jpg)
 
 After that, I would then provide a high level overview of WIC participation and how it has changed among the different categories of participating women and children. I think a slope chart makes sense to visualize this since I want to present a year vs. year comparison and clearly show the trends. 
 
 ![WIC participation from 2020 to 2022](SlopeChart.jpg)
+
+After showing the trends in enrollment, I think it makes sense to remind the audience that funding for the program is tied to participation. I also think at this point I could show the audience just how many eligible Pennsylvanians are not participating in the program. A unit chart would be great for that and that is what I sketched below. 
+
+![Funding is tied to participation](FundingPartic.jpg)
+
+![Eligible Participants not participating](UnitChart.jpg)
+
+At this point in the story, I think it makes sense to talk more positively about WIC components that people often do not know about that can increase participation. WIC is much more than just providing money for food to mothers and children. If people knew that and knew how else it could benefit them, they may be more inclined to participate in the program. This portion will be more text based than the other sections and will rely more on Shorthands ability to scroll and focus on one thing at a time. 
+
+![WIC misconceptions](Misconception.jpg)
+
+![Three lesser known WIC components](3things.jpg)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
