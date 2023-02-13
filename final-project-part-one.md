@@ -26,7 +26,7 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|Pennsylvania WIC Program Data|[Link](https://www.pawic.com/PAWICProgramData.aspx)  |             |
 |      |     |             |
 |      |     |             |
 
