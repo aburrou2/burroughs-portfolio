@@ -74,8 +74,8 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Pennsylvania WIC Program Data|[Link](https://www.pawic.com/PAWICProgramData.aspx)  |             |
-|Thriving PA|[Link](https://thrivingpa.org/wp-content/uploads/2022/06/Pennsylvania-WIC-Fact-Sheet-2022.pdf)|             |
+|Pennsylvania WIC Program Data|[Link](https://www.pawic.com/PAWICProgramData.aspx)  |Publicly available PA WIC participation data from the state WIC office|
+|Thriving PA|[Link](https://thrivingpa.org/wp-content/uploads/2022/06/Pennsylvania-WIC-Fact-Sheet-2022.pdf)|Publicly available report that has data on eligibility and participation|
 |      |     |             |
 
 # Method and medium
