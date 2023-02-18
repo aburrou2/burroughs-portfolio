@@ -48,5 +48,5 @@ After I graduate, I will be moving to Arlington, VA to work as a full-time Analy
 ### Part 1
 [Click Here](/final-project-part-one.md)
 ### Part 2
-
+[Click Here](/final-project-part-two.md)
 ### Part 3
