@@ -30,12 +30,15 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Determine the emotions that the story evokes|How did this story make you feel (and at what points did you feel certain feelings)? What do you think made you feel how you felt?|
+|Identify key takeways from the story|What are your key takeaways from that story?|
+|Determine how effective colors were|What did you think of the color scheme in the story? Where could it be improved? What was unclear or confusing about the colors?|
+|Determine if information was presented logically (i.e. how did the story unfold)|What do you think about the order the information was presented in? Did it make sense?|
+|Determine effectivness of data visualizations|What did you think of the data visualizations? Could you understand them?|
+|Determine effectivness of images|What did you think of the images? Could you understand them and were they not distracting?|
+|Determine effectivness of text|What did you think of the text in the storyboard? Was there enough, too little or too much text? How did the text complement the graphics and images?|
 
-
-Text here!
+The goal of user interviews is to get objective feedback on my storyboard. I will present it as a work in progress that can benefit from honest and open feedback from people in my intended audience. I will start the interview by thanking the interviewee for their time and telling them that I am taking notes of what they say and that I will not record any PII. I will also explain to them that this project is part of my Telling Stories with Data final project and that the interview should only take around 10 – 15 minutes. After these introductions, I will allow the interviewee to scroll through the storyboard. I will not interrupt them while they do this. After they go through the storyboard, I will then begin asking the questions found above. I will be sure to take verbatim notes and ask follow-up questions. After I am done with my questions, I will thank the interviewee and then synthesize my notes. 
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
