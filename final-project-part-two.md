@@ -43,7 +43,7 @@ The goal of user interviews is to get objective feedback on my storyboard. I wil
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+My first interview was with a male in their 20s who does data visualizing and storytelling as a part of his job. He was the person I interviewed to represent a broad, policymaker audience. 
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -69,7 +69,3 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
