@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-Building off my sketches from last week, I chose to build out my story in Shorthand. My wireframe can be found[here.](https://preview.shorthand.com/iF7Uqf4d2WbXOTbP) The Shorthand link to a project storyboard represents a rough draft of my final presentation. The wireframes of my data visualizations use real program data and the storyboard element builds off what I had in my sketches for Part 1. The storyboard incorporates my Flourish-created data visualizations and additional visualizations created in Canva.
+Building off my sketches from last week, I chose to build out my story in Shorthand. My wireframe can be found [here.](https://preview.shorthand.com/iF7Uqf4d2WbXOTbP) The Shorthand link to a project storyboard represents a rough draft of my final presentation. The wireframes of my data visualizations use real program data and the storyboard element builds off what I had in my sketches for Part 1. The storyboard incorporates my Flourish-created data visualizations and additional visualizations created in Canva.
 
 This process was not a simple creation of exactly what I had in my sketches from last week. Each visualization is quite different (and more accurate) than what was presented in the sketches last week. Additionally, the text elements have more thought and meaning behind their words than last week. There is still room for growth in all areas, but the storyboard creation process was intentional. The hope is that I have more finetuning than large scale changes to make going into next week. The user interviews will be critical in determining that. 
 
