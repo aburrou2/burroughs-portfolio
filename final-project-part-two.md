@@ -17,9 +17,11 @@ Lastly, the images used in the storyboard are supposed to correspond to the stor
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+I have two target audiences that I hope to reach with my story. The first is residents of Southwestern Pennsylvania, particularly people who know local mothers, infants, and/or children or may become a parent in the area in the future. My story focuses on an issue relevant to the area. That should make it easier for me to present it to the class as each person in the class lives in the area and likely knows local mothers, infants, and/or children. Speaking to an audience that has a genuine reason to care about the issue should be helpful. This issue is not limited to the area though, and the second audience I have is broader. The second audience is policymakers who have a broader and more general reason to care about the issue. 
 
-Text here!
+It should be easy to identify residents in the area that know local mothers, infants, and children or may become a mother in the area. I will identify people I know to speak with, and I will not interview people I do not know. I recognize that I could potentially get better feedback from people I do not know well, but given the time constraints it makes the most sense to interview people I know that are in the target audience. 
+
+Finding people in the second audience (policymakers) will be more difficult. I will instead target people that have a broader and more general reason to care about the issue. I understand that targeting actual policymakers would give me the best feedback, but that is difficult given the time constraints. I will try and target people with a good, broad understanding of data visualization and storytelling instead. I think people in that category could give me important feedback on how to target my story to policymakers who can enact change because of my story. 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
