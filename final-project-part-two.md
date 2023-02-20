@@ -45,12 +45,20 @@ The goal of user interviews is to get objective feedback on my storyboard. I wil
 
 My first interview was with a male in their 20s who does data visualizing and storytelling as a part of his job. He was the person I interviewed to represent a broad, policymaker audience. 
 
+My second interview was with a female in their 20s. They are part of the first intended audience, a resident of Southwestern Pennsylvania who knows mothers, infants, and children and may also become a mother in the area. 
+
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+| How did this story make you feel?| Insightful feedback            |             |             |
+|What do you think made you feel how you felt?|                                |             |             |
+|What are your key takeaways from that story?|                                |             |             |
+|What did you think of the color scheme in the story?/Where could it be improved? What was unclear or confusing about the colors?                          |                                |             |             |
+|Is the shift from light to distracting?|                                |             |             |
+|What do you think about the order the information was presented in? Did it make sense?|                                |             |             |
+|What did you think of the data visualizations? Could you understand them?|                                |             |             |
+|What did you think of the images? Could you understand them and were they not distracting?|                                |             |             |
+|What did you think of the text in the storyboard? Was there enough, too little or too much text? How did the text complement the graphics and images?|                                |             |             |
 |                         |                                |             |             |
-|                         |                                |             |             |
-
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
