@@ -73,8 +73,8 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
+| There is too much white space in the storyboard. This was a common observation.| I will change the spacing of the storyboard to reduce the amount of white space. I may also increase the size of text as that can reduce the amount of white space too. I will also consider putting graphs side by side instead of their current vertical orientation.|
+|Each interviewee said they feel informed.|This is a good thing. The call to action is about greater awareness, so it is good that the users felt more informed. I want to maintain those feelings as I make changes for Part 3.|
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
