@@ -62,6 +62,9 @@ My third interview was with a female in their 50s. They have lived in Southweste
 |What did you think of the text in the storyboard? Was there enough, too little or too much text? How did the text complement the graphics and images?|                                |             |             |
 |                         |                                |             |             |
 
+
+# Feedback from Class
+
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
