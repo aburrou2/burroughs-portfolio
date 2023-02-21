@@ -71,6 +71,21 @@ The in-class exercise will also inform the changes I make. Because of that, it i
 
 Text here!
 
+
+| Research synthesis                       | Anticipated changes for Part III                                                |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+| ...add more rows as necessary            |                                                                                 |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | ...add more rows as necessary            |                                                                                 |
