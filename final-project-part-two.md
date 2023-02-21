@@ -68,7 +68,7 @@ The in-class exercise will also inform the changes I make. Because of that, it i
 
 # Identified changes for Part III
 
-I am thankful for the user research component of this project. It pointed out several blind spots and provided me with critical feedback to consider before the final presentation. I knew this was a rough draft of the story, but I know the biggest areas for improvement. The changes I anticipate making are in the table below.
+I am thankful for the user research component of this project. It pointed out several blind spots and provided me with critical feedback to consider before the final presentation. I knew this was a rough draft of the story, but I know the biggest areas for improvement. The changes I anticipate making are in the table below. Changing the amount of white space and the order of the graphics are my two most important changes. I also have many things to consider when delivering my presentation, as the table alludes to. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -78,15 +78,14 @@ I am thankful for the user research component of this project. It pointed out se
 |From just looking at the storyboard, nobody picked up that funding being tied to participation is a core message of the story.|That is a core component of the story. Without me speaking, the story does not signal that funding being tied to participation is overly troublesome. Aside from changing the background color, I can use text features (like bolding or underlining) to highlight this point and can make the two downward red arrows stick out more. It will also be important to practice a lot and work on my delivery so it is obvious that funding being tied to participation is troublesome and a main takeaway of the story.  |
 |Another common point of feedback was that the information in the story could be ordered better.   |I will try and present the slope charts and bar charts side by side instead of vertically. I think this will help with the order and limit audience confusion. I do not know yet if I will present them as children graphs and mother graphs or breastfeeding and non-breastfeeding. I think it makes the most sense to present it as children and mothers separately (not breastfeeding and non-breastfeeding) as long as I use my words appropriately and describe what is happening with participation in the graphics. If I clearly point out the common thread, I think this order makes sense.                                |
 | The users liked the red dots and percentages, but the in-class group did not. |It is less clear what I should do here, as some liked this feature. In fact, they said it was the thing they liked most about my story, and the in-class group said it needed improvement. I think they liked the feature and the idea, but that the color was confusing. Since I actually ran through the story with them, I will change the colors and use a saturation of red, not the same red. If that does not look good, I will use contrasting colors (green and red) to highlight the difference between eligible non-participants and eligible participants.    |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+|Call to action was clear when walking the in-class group through it. It was not clear in the user research interviews.|I need to make the call to action extremely clear with my words. I think how it is presented in the story is fine, but my words do need to complement what is in Shorthand at all points of the presentation.|
+
 
 
 # Final Thoughts
 
+User research and the in-class feedback were helpful. I should have actually walked through my storyboard during my user interviews instead of letting them go through it first on their own. I was able to walk them through certain parts and explain my thought process, but I should have done that for the entire storyboard. I think that was a missed opportunity, but I still think the dialogue I had with each user captured most (but not all) of the feedback I could get from walking them through the storyboard. 
+
+I have plenty of information in Shorthand and it will be important to narrow the focus and focus on the most important aspects to have an effective 60-second presentation. I am still confident that I can deliver a meaningful presentation with a strong call to action. I am nervous about fitting the information into a minute window but am also excited for the challenge that comes with that. 
 
 
