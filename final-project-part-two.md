@@ -58,7 +58,7 @@ My third interview was with a female in their 50s. They have lived in Southweste
 |Is the shift from light to distracting?|                                |             |             |
 |What do you think about the order the information was presented in? Did it make sense?|                                |             |             |
 |What did you think of the data visualizations? Could you understand them?|                                |             |             |
-|What did you think of the images? Could you understand them and were they not distracting?|                                |             |             |
+|What did you think of the images? Could you understand them and were they not distracting?|“Thought they were good, definitely don’t need to take those out.”|“I liked them. Not distracting.”|She said they were good and not distracting and were easy to understand.|
 |What did you think of the text in the storyboard? Was there enough, too little or too much text? How did the text complement the graphics and images?|"I think it is pretty good." Amount of text is good, but they said the spacing is off. They also mentioned it would be easier to comprehend if it was more concise with better flow.|Enough text. “Neither one overpowered the other, which was good”|"Perfect, concise. Easy to read"|
 |                         |                                |             |             |
 
