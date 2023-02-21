@@ -24,9 +24,6 @@ It should be easy to identify residents in the area that know local mothers, inf
 Finding people in the second audience (policymakers) will be more difficult. I will instead target people that have a broader and more general reason to care about the issue. I understand that targeting actual policymakers would give me the best feedback, but that is difficult given the time constraints. I will try and target people with a good, broad understanding of data visualization and storytelling instead. I think people in that category could give me important feedback on how to target my story to policymakers who can enact change because of my story. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -41,8 +38,6 @@ Text here!
 The goal of user interviews is to get objective feedback on my storyboard. I will present it as a work in progress that can benefit from honest and open feedback from people in my intended audience. I will start the interview by thanking the interviewee for their time and telling them that I am taking notes of what they say and that I will not record any PII. I will also explain to them that this project is part of my Telling Stories with Data final project and that the interview should only take around 10 – 15 minutes. After these introductions, I will allow the interviewee to scroll through the storyboard. I will not interrupt them while they do this. After they go through the storyboard, I will then begin asking the questions found above. I will be sure to take verbatim notes and ask follow-up questions. After I am done with my questions, I will thank the interviewee and then synthesize my notes. 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
 My first interview was with a male in their 20s who does data visualizing and storytelling as a part of his job. He was the person I interviewed to represent a broad, policymaker audience. 
 
 My second interview was with a female in their 20s. They are part of the first intended audience, a resident of Southwestern Pennsylvania who knows mothers, infants, and children and may also become a mother in the area. 
@@ -60,9 +55,13 @@ My third interview was with a female in their 50s. They have lived in Southweste
 |What did you think of the data visualizations? Could you understand them?|He liked the bar graphs and the percents. He also said he remembered the trends and not the numbers. He said that red is just as good as a downward trend so maybe that could be incorporated somewhere and that percent change could be better to show than the "true delta."|"Yeah I really like the red dots and the graphs were pretty and easy to understand."|She could understand them but mentioned that she was confused by the categories in the bar chart, especially about the breastfeeding and non-breastfeeding groups. She also mentioned the categories were helpful but more context around them would be more helpful.|
 |What did you think of the images? Could you understand them and were they not distracting?|“Thought they were good, definitely don’t need to take those out.”|“I liked them. Not distracting.”|She said they were good and not distracting and were easy to understand.|
 |What did you think of the text in the storyboard? Was there enough, too little or too much text? How did the text complement the graphics and images?|"I think it is pretty good." Amount of text is good, but they said the spacing is off. They also mentioned it would be easier to comprehend if it was more concise with better flow.|Enough text. “Neither one overpowered the other, which was good”|"Perfect, concise. Easy to read"|
-|                         |                                |             |             |
 
-I should have followed up more with the first interviewee. 
+### Additional Thoughts/Findings from Interviews
+
+The first interviewee mentioned that spacing, the order of the storyboard, and that emphasizing funding and any numerical things or total takeaways would be the most important things to focus on in the next iteration. He also emphasized that connecting the audience right away is crucial. It was also clear in talking to him that I should clarify the abbreviations (WIC and SW) so the audience understands them. He also said that the only thing that seemed bad about the program was that there was less participation. He also emphasized that I should lead with the Whys and try and use numbers to captivate the audience. The first interview provided many crucial insights, but I should have followed up more on some of his comments.
+
+The third interviewee took awhile to go through the storyboard and asked many clarification questions. She brought up important points about the program that I will need to address as important context for the program. It will be important to keep her questions in mind as I change the text in the storyboard and develop my presentation. 
+
 # Feedback from Class
 
 # Identified changes for Part III
@@ -80,5 +79,5 @@ Text here!
 
 # Final Thoughts
 
-The third interviewee took awhile to go through the storyboard and asked many clarification questions. She brought up important points about the program that I will need to address as important context for the program. It will be important to keep her questions in mind as I change the text in the storyboard and develop my presentation. 
+
 
