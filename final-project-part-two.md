@@ -51,9 +51,9 @@ My third interview was with a female in their 50s. They have lived in Southweste
 
 | Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| How did this story make you feel?| Insightful feedback            |             |             |
-|What do you think made you feel how you felt?|                                |             |             |
-|What are your key takeaways from that story?|                                |             |             |
+| How did this story make you feel?|"A little informative or interested. A little confusion at the beginning, because it jumps to straight health outcomes instead of discussing problem statement or other stuff."|"I feel informed. I’m not happy or sad about it, just feel overall more informed by it."|"I was surprised that the participation is going down."|
+|What do you think made you feel how you felt?|Mentioned the flow of information and said the storyline seemed choppy. "Not as fluid or as grabbing as it could be." He also mentioned that the amount of white space contributed to his feelings.|"The story. Scrolling through it with more facts as I go, helped me learn."|"I felt surprised when I saw the graphics."|
+|What are your key takeaways from that story?|That participation was decreasing. He said he did not pickup that funding was a key message at all.|"WIC supports women, infants, and children, in basic every day needs." "I think that is my main takeaway. What it is and what it's for."|“I would think that there are plenty of people out there who should be using it that are not. I can’t believe that it’s not needed. But then again, people don’t know what they can do. I feel like with WIC people know how to get help with it or start. But I guess not.”|
 |What did you think of the color scheme in the story?/Where could it be improved? What was unclear or confusing about the colors?                          |                                |             |             |
 |Is the shift from light to distracting?|                                |             |             |
 |What do you think about the order the information was presented in? Did it make sense?|                                |             |             |
