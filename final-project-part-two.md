@@ -74,8 +74,9 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
+| There is too much white space in the storyboard. This was a common observation.| I will change the spacing of the storyboard to reduce the amount of white space. I may also increase the size of text as that can reduce the amount of white space too. I will also consider putting graphs side by side instead of their current vertical orientation.|
+|Each interviewee said they felt informed.| This is a good thing. The call to action is about greater awareness, so it is good that the users felt more informed. I want to maintain those feelings as I make changes for Part 3. |
+|Context and background information was good, but can improve the way I engage audience at the beginning.|I will keep most of the context I have but be sure to spell out all abbreviations at the start and mention who is eligible for WIC. This should add meaningful context that engages the audience from the start. My story can only be compelling if people understand it, so I need to build off the good comments  received on context and add slightly more to present a still brief but more complete context to the audience. |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
