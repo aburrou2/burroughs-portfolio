@@ -72,7 +72,7 @@ I am thankful for the user research component of this project. It pointed out se
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| There is too much white space in the storyboard. This was a common observation.| I will change the spacing of the storyboard to reduce the amount of white space. I may also increase the size of text as that can reduce the amount of white space too. I will also consider putting graphs side by side instead of their current vertical orientation.|
+| There is too much white space in the storyboard. This was a common observation.| I will change the spacing of the storyboard to reduce the amount of white space. I may also increase the size of text as that can reduce the amount of white space too. I will also consider putting graphs side by side instead of their current vertical orientation. The most important thing I want to change is the amount of white space. I may also consider adding more background images to areas of the story, or put borders around the data visualizations.|
 |Each interviewee said they felt informed.| This is a good thing. The call to action is about greater awareness, so it is good that the users felt more informed. I want to maintain those feelings as I make changes for Part 3. |
 |Context and background information was good, but can improve the way I engage audience at the beginning.|I will keep most of the context I have but be sure to spell out all abbreviations at the start and mention who is eligible for WIC. This should add meaningful context that engages the audience from the start. My story can only be compelling if people understand it, so I need to build off the good comments  received on context and add slightly more to present a still brief but more complete context to the audience. |
 |From just looking at the storyboard, nobody picked up that funding being tied to participation is a core message of the story.|That is a core component of the story. Without me speaking, the story does not signal that funding being tied to participation is overly troublesome. Aside from changing the background color, I can use text features (like bolding or underlining) to highlight this point and can make the two downward red arrows stick out more. It will also be important to practice a lot and work on my delivery so it is obvious that funding being tied to participation is troublesome and a main takeaway of the story.  |
@@ -85,14 +85,7 @@ I am thankful for the user research component of this project. It pointed out se
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| ...add more rows as necessary            |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+
 # Final Thoughts
 
 
