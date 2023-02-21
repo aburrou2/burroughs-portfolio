@@ -64,7 +64,7 @@ The third interviewee took awhile to go through the storyboard and asked many cl
 
 ## Feedback from Class
 
-The in-class exercise will also inform the changes I make. Because of that, it is important to include that feedback here as well. During the in-class exercise, the group mentioned that the context about the program and what WIC stands for was helpful. They suggested I reconsider how I present the graphics, particularly the slope charts. They suggested that I either present them next to each other instead of vertically, or that I break out the groups differently and put them into two charts (instead of four). They also said that the graphic which uses red dots was confusing because of the color scheme. It was hard to tell what the colors referred to since both used red (and the same color scheme). They suggested using a saturation instead of the same red, or completely different colors. Lastly, one member mentioned that I should include a case study in my call to action to point to an example of where the three areas increased participation. 
+The in-class exercise will also inform the changes I make. Because of that, it is important to include that feedback here as well. During the in-class exercise, the group mentioned that the context about the program and what WIC stands for was helpful. THey mentioned that the context is important to have since the audience in class has many international students. They suggested I reconsider how I present the graphics, particularly the slope charts. They suggested that I either present them next to each other instead of vertically, or that I break out the groups differently and put them into two charts (instead of four). They also said that the graphic which uses red dots was confusing because of the color scheme. It was hard to tell what the colors referred to since both used red (and the same color scheme). They suggested using a saturation instead of the same red, or completely different colors. Lastly, one member mentioned that I should include a case study in my call to action to point to an example of where the three areas increased participation. 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
@@ -74,11 +74,15 @@ Text here!
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | There is too much white space in the storyboard. This was a common observation.| I will change the spacing of the storyboard to reduce the amount of white space. I may also increase the size of text as that can reduce the amount of white space too. I will also consider putting graphs side by side instead of their current vertical orientation.|
-|Each interviewee said they feel informed.|This is a good thing. The call to action is about greater awareness, so it is good that the users felt more informed. I want to maintain those feelings as I make changes for Part 3.|
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+|Each interviewee said they felt informed.|This is a good thing. The call to action is about greater awareness, so it is good that the users felt more informed. I want to maintain those feelings as I make changes for Part 3.|
+|Context and background information was good, but can improve the way I engage audience at the beginning.|I will keep most of the context I have but be sure to spell out all abbreviations at the start and mention who is eligible for WIC. This should add meaningful context that engages the audience from the start. My story can only be compelling if people understand it, so I need to build off the good comments I received on context and add slightly more to present a still brief but more complete context to the audience.|
+|From just looking at the storyboard, nobody picked up that funding being tied to participation is a core message of the story.|That is a core component of the story. Without me speaking, the story does not signal that funding being tied to participation is overly troublesome. Aside from changing the background color, I can use text features (like bolding or underlining) to highlight this point and can make the two downward red arrows stick out more. It will also be important to practice a lot and work on my delivery so it is obvious that funding being tied to participation is troublesome and a main takeaway of the story.|
 | ...add more rows as necessary            |                                                                                 |
-
+| ...add more rows as necessary            |                                                                                 |
+| ...add more rows as necessary            |                                                                                 |
+| ...add more rows as necessary            |                                                                                 |
+| ...add more rows as necessary            |                                                                                 |
+| ...add more rows as necessary            |                                                                                 |
 # Final Thoughts
 
 
