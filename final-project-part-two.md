@@ -47,6 +47,8 @@ My first interview was with a male in their 20s who does data visualizing and st
 
 My second interview was with a female in their 20s. They are part of the first intended audience, a resident of Southwestern Pennsylvania who knows mothers, infants, and children and may also become a mother in the area. 
 
+My third interview was with a female in their 50s. They have lived in Southwestern Pennsylvania their whole life and have been in the home daycare business of 0 - 6 year olds for 17 years. 
+
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | How did this story make you feel?| Insightful feedback            |             |             |
@@ -73,7 +75,7 @@ Text here!
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
+# Final Thoughts
 
-Text here!
+The third interviewee took awhile to go through the storyboard and asked many clarification questions. She brought up important points about the program that I will need to address as important context for the program. It will be important to keep her questions in mind as I change the text in the storyboard and develop my presentation. 
 
