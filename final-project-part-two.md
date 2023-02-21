@@ -62,7 +62,9 @@ The first interviewee mentioned that spacing, the order of the storyboard, and t
 
 The third interviewee took awhile to go through the storyboard and asked many clarification questions. She brought up important points about the program that I will need to address as important context for the program. It will be important to keep her questions in mind as I change the text in the storyboard and develop my presentation. 
 
-# Feedback from Class
+## Feedback from Class
+
+The in-class exercise will also inform the changes I make. Because of that, it is important to include that feedback here as well. During the in-class exercise, the group mentioned that the context about the program and what WIC stands for was helpful. They suggested I reconsider how I present the graphics, particularly the slope charts. They suggested that I either present them next to each other instead of vertically, or that I break out the groups differently and put them into two charts (instead of four). They also said that the graphic which uses red dots was confusing because of the color scheme. It was hard to tell what the colors referred to since both used red (and the same color scheme). They suggested using a saturation instead of the same red, or completely different colors. Lastly, one member mentioned that I should include a case study in my call to action to point to an example of where the three areas increased participation. 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
