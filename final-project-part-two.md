@@ -49,7 +49,7 @@ My second interview was with a female in their 20s. They are part of the first i
 
 My third interview was with a female in their 50s. They have lived in Southwestern Pennsylvania their whole life and have been in the home daycare business of 0 - 6 year olds for 17 years. 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | How did this story make you feel?| Insightful feedback            |             |             |
 |What do you think made you feel how you felt?|                                |             |             |
@@ -59,7 +59,7 @@ My third interview was with a female in their 50s. They have lived in Southweste
 |What do you think about the order the information was presented in? Did it make sense?|                                |             |             |
 |What did you think of the data visualizations? Could you understand them?|                                |             |             |
 |What did you think of the images? Could you understand them and were they not distracting?|                                |             |             |
-|What did you think of the text in the storyboard? Was there enough, too little or too much text? How did the text complement the graphics and images?|                                |             |             |
+|What did you think of the text in the storyboard? Was there enough, too little or too much text? How did the text complement the graphics and images?|"I think it is pretty good." Amount of text is good, but they said the spacing is off. They also mentioned it would be easier to comprehend if it was more concise with better flow.|Enough text. “Neither one overpowered the other, which was good”|"Perfect, concise. Easy to read"|
 |                         |                                |             |             |
 
 
