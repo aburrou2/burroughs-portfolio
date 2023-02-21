@@ -70,7 +70,7 @@ The in-class exercise will also inform the changes I make. Because of that, it i
 
 # Identified changes for Part III
 
-I am thankful for the user research component of this project. It pointed out several blind spots and provided me with critical feedback to consider before the final presentation. I knew this was a rough draft of the story, but I know the biggest areas for improvement. The changes I anticipate making are in the table below. Changing the amount of white space and the order of the graphics are my two most important changes. I also have many things to consider when delivering my presentation, as the table alludes to. 
+I am thankful for the user research component of this project. It pointed out several blind spots and provided me with critical feedback to consider before the final presentation. I knew this was a rough draft of the story, but I now know the biggest areas for improvement. The changes I anticipate making are in the table below. Changing the amount of white space and the order of the graphics are my two most important changes. I also have many things to consider when delivering my presentation, as the table alludes to. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
