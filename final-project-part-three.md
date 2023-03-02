@@ -1,9 +1,8 @@
 | [home page](https://aburrou2.github.io/burroughs-portfolio/) | [visualizing debt](dataviz2) | [critique by design](Assignment34) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+[Here](https://preview.shorthand.com/D6MsXnT6LCc4VDuC) is the link to my final data story on Shorthand. I made significant changes to it that I will talk about more in the section below. I made a copy of what I turned in for Part 2 and made the changes in that new copy. I did that so I could easily compare the final product to the intermediate product and see the changes, growth, and how my thought process changed from one step to the next. 
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
