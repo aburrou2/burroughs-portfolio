@@ -2,7 +2,7 @@
 
 # The final data story
 
-[Here](https://preview.shorthand.com/D6MsXnT6LCc4VDuC) is the link to my final data story on Shorthand. I made significant changes to it that I will talk about more in the section below. I made a copy of what I turned in for Part 2 and made the changes in that new copy. I did that so I could easily compare the final product to the intermediate product and see the changes, growth, and how my thought process changed from one step to the next. 
+[Here](https://preview.shorthand.com/D6MsXnT6LCc4VDuC](https://carnegiemellon.shorthandstories.com/declining-wic-participation-in-southwestern-pennsylvania/index.html#section-lGOEzMoZrn) is the published link to my final data story on Shorthand. I made significant changes to it that I will talk about more in the section below. I made a copy of what I turned in for Part 2 and made the changes in that new copy. I did that so I could easily compare the final product to the intermediate product and see the changes, growth, and how my thought process changed from one step to the next. 
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
