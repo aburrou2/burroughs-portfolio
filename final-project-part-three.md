@@ -19,9 +19,10 @@ Lastly, I added more context around the three components I think can increase WI
 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+I still had the same audience in mind for the final story as I did in Part 2. The first is residents of Southwestern Pennsylvania, particularly people who know local mothers, infants, and/or children or may become a parent in the area in the future (i.e. people who live in Southwestern Pennsylvania that know mothers, infants, or children that could benefit from WIC). The second audience is policymakers who have a broader and more general reason to care about the issue. 
+
+All the changes I made were with the audience in mind. I kept both the audience in the classroom in mind and an audience who would view my story without me presenting it to them. It was because of them that I made my call to action stronger and more actionable. Not only did I encourage the audience of people who know local mothers, infants, and/or children or may become a parent in the area in the future to spread awareness of WIC, but I also provided them with resources to find out more about the program or locate a nearby WIC clinic. I wanted the audience to come away with more information on WIC and to have resources as well. Before they just had information, but now I feel like they have resources and actionable things they can do to increase participation in the area (aside from spreading awareness). They also have easier access to resources that could personally help them or people they know. Coming into Part 3, I had a clear audience, but I needed to cater my presentation more to that audience. I did that by adding more context and making a more actionable call to action. 
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
