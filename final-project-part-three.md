@@ -20,9 +20,11 @@ Text here!
 Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
-Text here!
+My references for this project can be found at the bottom of Shorthand story which again is linked [here](https://carnegiemellon.shorthandstories.com/declining-wic-participation-in-southwestern-pennsylvania/index.html#group-section-TjwLB9wlDx). All the pictures used in the presentation are free, non-copyrighted images. Other graphics were created by me, and the information used to create those images is cited in the published story. 
+
+The only additional comment I would like to add here pertains to the data cleaning I did for the section where I talked about 41% and 59% of eligible individuals. I got these numbers from five separate county reports and then entered them into a spreadsheet where I did aggregate calculations. The rest of my data in this presentation was cleaned by simply removing rows that did not contain information on Allegheny, Beaver, Butler, Washington, or Westmoreland County. 
+
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
