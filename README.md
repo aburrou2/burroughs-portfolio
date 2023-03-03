@@ -31,11 +31,6 @@ After I graduate, I will be moving to Arlington, VA to work as a full-time Analy
 
 # Portfolio
 
-## In-Class Exercises
-[King County Demo](/KingCountyDemo.md)
-
-[Tableau Demo](/TableauDemo.MD)
-
 ## Assignment: Visualizing Government Debt
 [Here are the visualizations and write up for this assignment](/dataviz2.md)
 
